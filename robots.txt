@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://midrampage.github.io/Dumpster-Rental/sitemap.xml
